@@ -8,7 +8,7 @@
 <div align = "center">
 <img src="assets/Screenshot_1695748025.png" width="350" />
 <img src="assets/Screenshot_1695748032.png" width="350" />
-<img src="Screenshot_1695748238.png" width="350" />
+<img src="assets/Screenshot_1695748238.png" width="350" />
 </div>
 
 This project is a starting point for a Flutter application.
