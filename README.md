@@ -6,8 +6,8 @@
 ## ScreenShot
 
 <div align = "center">
-<img src="Screenshot_1695748025.png" width="350" />
-<img src="Screenshot_1695748032.png" width="350" />
+<img src="assets/Screenshot_1695748025.png" width="350" />
+<img src="assets/Screenshot_1695748032.png" width="350" />
 <img src="Screenshot_1695748238.png" width="350" />
 </div>
 
